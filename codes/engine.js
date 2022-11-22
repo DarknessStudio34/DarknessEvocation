@@ -21,6 +21,7 @@ function preload (){
   BGs = {
     menu2: loadImage('assets/menus/menu_principal/menu_bg_2.png'),
     menu1: loadImage('assets/menus/menu_principal/menu_bg_1.png'),
+    menu1_1: loadImage('assets/menus/menu_principal/menu_bg_11.png'),
     menu_play1: loadImage('assets/menus/menu_principal/play1.png'),
     menu_options1: loadImage('assets/menus/menu_principal/options1.png'),
     menu_play2: loadImage('assets/menus/menu_principal/play.png'),
