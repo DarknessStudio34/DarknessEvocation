@@ -1,4 +1,5 @@
-
+var Xpm = 0
+var Ypm = 0
 function cenarios (){
   if (c == 0){
     background (220)
@@ -11,6 +12,7 @@ function cenarios (){
   if (c == 1){
     if (propor == 1){
       background (BGs.menu1);
+      image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY)
       image (BGs.menu_options1, 0, 0, screenX, screenY );
       image (BGs.menu_play1, 0, 0, screenX, screenY );
     }
