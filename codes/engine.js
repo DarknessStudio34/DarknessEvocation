@@ -37,6 +37,11 @@ function preload (){
     //res_se2: loadImage('assets/menus/menu_principal/res_se2.png')
   }
 }
+function aniper (){
+  if (bcl == 1){
+    Xmp = Xmp - 15
+  }
+}
 function frames (){
   fill (0);
   if (c == 1 || c == 1.2){fill (220)}
@@ -55,7 +60,7 @@ function screenConfig (){
     //16:9
   }
 }
-
+var bcl
 function mouseClicked () {
   if(mouseX > screenX - screenX * 0.10 && mouseY < screenY - screenY * 0.90){
     toggleFullScreen();
@@ -65,8 +70,7 @@ function mouseClicked () {
     }
   }
   if(mouseX > screenX * 0.7775 && mouseX < screenX * 0.9125 && mouseY > screenY * 0.473 && mouseY < screenY * 0.645){
-    Xpm = Xpm - 5
-    if (Xpm >= -360){c = 1.2}
+    bcl = 1
   }
 }
 function toggleFullScreen() {
