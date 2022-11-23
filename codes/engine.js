@@ -65,7 +65,7 @@ function mouseClicked () {
     }
   }
   if(mouseX > screenX * 0.7775 && mouseX < screenX * 0.9125 && mouseY > screenY * 0.473 && mouseY < screenY * 0.645){
-    Xpm = Xpm - 20
+    Xpm = Xpm - 5
     if (Xpm >= -360){c = 1.2}
   }
 }
