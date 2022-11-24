@@ -6,6 +6,7 @@ function setup() {
 
 function draw() {
   screenConfig();
+  aniper();
   j();
   cenarios();
   botao()
@@ -37,10 +38,12 @@ function preload (){
     //res_se2: loadImage('assets/menus/menu_principal/res_se2.png')
   }
 }
+var bcpl
 function aniper (){
   if (bcl == 1){
-    Xmp = Xmp - 15
+    bcpl = 1
   }
+  if (bcpl == 1){Xmp = Xmp - 15}
 }
 function frames (){
   fill (0);
