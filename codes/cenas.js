@@ -25,16 +25,16 @@ function cenarios (){
 }
 function botao (){
   if (c == 1.2){
-   /* if(propor == 2){
+    if(propor == 2){
       //16:9
       background(BGs.m_options2);
       if (mbp == false) {
-        image(bop.res2, 0, 0, screenX, screenY);
+        image(bop.res1, 0, 0, screenX, screenY);
       }
       if (mbp == true) {
-        image(bop.res_se2, 0, 0, screenX, screenY);
+        image(bop.res_se1, 0, 0, screenX, screenY);
       }
-    }*/
+    }
     if (propor == 1){
       //20:9
       background(BGs.m_options1);
