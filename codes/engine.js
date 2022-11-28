@@ -1,3 +1,4 @@
+var ver = 0.0.1
 function setup() {
   createCanvas(screenX, screenY);
   frameRate(60);
