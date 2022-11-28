@@ -4,8 +4,8 @@ var timer = 0
 var BGs
 var mbp = false
 var bop
-var screenXC = window.screen.width
-var screenX = screenXC - screenXC * 0.0272
+ 
+var screenX = window.screen.width
 var screenY = window.screen.height
 var propor
 
