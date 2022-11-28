@@ -43,8 +43,8 @@ function aniper (){
   if (bcl == 1){
     bcpl = 1
   }
-  if (bcpl == 1){Xmp = Xmp - 15}
-  if (Xmp >= -360){c == 1.2}
+  if (bcpl == 1){Xmp = Xmp - 6}
+  if (Xmp <= -360){c = 1.2}
 }
 function frames (){
   fill (0);
