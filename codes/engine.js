@@ -15,7 +15,7 @@ function draw() {
     image(BGs.menu_full, screenX - screenX * 0.05, 0, 25, 25) 
   }
 }
-
+var Xmp
 
 function preload (){
   lg = loadImage('assets/logo_DS.png')
