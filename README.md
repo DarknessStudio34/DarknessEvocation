@@ -8,7 +8,7 @@ Beta 0.0.0.3
 
 Como instalar?
  -> vc pode rodar a versão online (apartir do navegador) aqui:
-    https://darknessstudio34.github.io/DarknessEvocation/
+    https://darknessstudio34.github.io/DarknessEvocationOld/
 
  -> atualmente não tenho um como compilar os arquivos em um executável ou arquivo de instalação, entretanto você pode baixar o arquivo (zip) do projeto aqui: https://drive.google.com/drive/folders/1VkpfWDuwM-S8v5GrPx7gCQcuC27xhXOd
 Podendo rodar o projeto offline (sem conexão com a internet).
