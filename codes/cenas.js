@@ -1,5 +1,6 @@
 var Xpm = 0
 var Ypm = 0
+var apm = 0
 function cenarios (){
   if (c == 0){
     background (220)
@@ -12,7 +13,16 @@ function cenarios (){
   if (c == 1){
     if (propor == 1){
       background (BGs.menu1);
-      image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY)
+      if (apm == 0){
+        image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY)
+      }
+      else if (apm == 1){
+        if (Xmp == 5){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
+        if (Xmp == 20){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
+        if (Xmp == 35){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
+        if (Xmp == 50){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
+        if (Xmp == 65){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY); c = 1.2; }
+      }
       image (BGs.menu_options1, 0, 0, screenX, screenY );
       image (BGs.menu_play1, 0, 0, screenX, screenY );
     }
