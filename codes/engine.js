@@ -86,5 +86,5 @@ function toggleFullScreen() {
     } else if (document.webkitCancelFullScreen) {  
       document.webkitCancelFullScreen();  
     }  
-  }
+  } 
 } 
