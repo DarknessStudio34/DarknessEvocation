@@ -7,7 +7,6 @@ function setup() {
 
 function draw() {
   screenConfig();
-  aniper();
   j();
   cenarios();
   botao()
@@ -39,14 +38,6 @@ function preload (){
     //res_se2: loadImage('assets/menus/menu_principal/res_se2.png')
   }
 }
-var bcpl
-function aniper (){
-  if (bcl == 1){
-    bcpl = 1
-  }
-  if (bcpl == 1){Xmp -= 6}
-  if (Xmp <= -360){c = 1.2}
-}
 function frames (){
   fill (0);
   if (c == 1 || c == 1.2){fill (220)}
@@ -65,7 +56,6 @@ function screenConfig (){
     //16:9
   }
 }
-var bcl
 function mouseClicked () {
   if(mouseX > screenX - screenX * 0.10 && mouseY < screenY - screenY * 0.90){
     toggleFullScreen();
@@ -75,7 +65,7 @@ function mouseClicked () {
     }
   }
   if(mouseX > screenX * 0.7775 && mouseX < screenX * 0.9125 && mouseY > screenY * 0.473 && mouseY < screenY * 0.645){
-    bcl = 1
+    apm = 1
   }
 }
 function toggleFullScreen() {
