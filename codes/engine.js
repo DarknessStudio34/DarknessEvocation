@@ -1,4 +1,4 @@
-var ver = 0.0.1
+var ver = 0.01
 function setup() {
   createCanvas(screenX, screenY);
   frameRate(60);
