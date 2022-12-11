@@ -18,7 +18,7 @@
 <p>Baixe o arquivo clicando no link acima e selecionando a versão na qual deseja executar. 
 Ou se prefirir, aqui a ultima versão lançada: (pode ser que esteja desatualizado...)</p>
 
-<h4>Android:</h4> <p>extraia o arquivo do projeto (se você não possui um gerenciador de arquivos, recomendo Zarchiver <img src ="assets/readme/za.png" alt="image" heigth="25" width="25"> </p>
+<h4>Android:</h4>extraia o arquivo do projeto (se você não possui um gerenciador de arquivos, recomendo Zarchiver <img src ="assets/readme/za.png" alt="image" heigth="25" width="25">
 <p>https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)</p>
 -> com o Zarchiver: vá até o diretorio onde encontra-se o arquivo que foi baixado (geralmente na pasta download (/storage/emulated/0/download), de um clique sobre o nome do arquivo, em seguida clique em 'extrair para /nome do arquivo/'
 Agora copie o seguinte enderço e cole na barra de endereço de seu navegador (note que deve ser a barra de endereço (geralmente na parte superior da tela) e não a barra de pesquisa do google): file:///storage/emulated/0/download/DarknessEvocation/index.html
