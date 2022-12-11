@@ -8,8 +8,8 @@
     <p>|   -> menu opções +/-</p>
 
 <h1>Como instalar?</h1>
- -> vc pode rodar a versão online (apartir do navegador) aqui:
-    https://darknessstudio34.github.io/DarknessEvocationOld/
+ <p>|   -> vc pode rodar a versão online (apartir do navegador) aqui:
+    <p>https://darknessstudio34.github.io/DarknessEvocationOld/</p>
 
  -> atualmente não tenho um como compilar os arquivos em um executável ou arquivo de instalação, entretanto você pode baixar o arquivo (zip) do projeto aqui: https://drive.google.com/drive/folders/1VkpfWDuwM-S8v5GrPx7gCQcuC27xhXOd
 Podendo rodar o projeto offline (sem conexão com a internet).
