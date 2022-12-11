@@ -1,13 +1,13 @@
 
 <p>Olá🤘 Beta v0.0.0.2</p>
 
-<h1>-> o que temos até agora:</h1>
+<h2>-> o que temos até agora:</h2>
     <p>|   -> inicio ícone Darkness Studio.</p>
     <p>|   -> tela menu principal</p>
     <p>|   -> modo tela cheia</p>
     <p>|   -> menu opções +/-</p>
 
-<h1>Como instalar?</h1>
+<h2>Como instalar?</h2>
  <p>|   -> vc pode rodar a versão online (apartir do navegador) aqui:
     <p>https://darknessstudio34.github.io/DarknessEvocationOld/</p>
 
