@@ -1,10 +1,10 @@
-# DarknessEvocation
-#pt-br
-Beta 0.0.0.3
--> o que temos até agora:
-    -> inicio ícone Darkness Studio.
-    -> tela menu principal
-    -> modo tela cheia
+Olá🤘
+<p>Beta v0.0.0.2</p>
+
+<p>-> o que temos até agora:</p>
+    <p>-> inicio ícone Darkness Studio.</p>
+    <p>-> tela menu principal</p>
+    <p>-> modo tela cheia</p>
 
 Como instalar?
  -> vc pode rodar a versão online (apartir do navegador) aqui:
