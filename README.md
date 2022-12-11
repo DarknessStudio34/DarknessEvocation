@@ -20,7 +20,7 @@ Ou se prefirir, aqui a ultima versão lançada: (pode ser que esteja desatualiza
 
 <h3>Android</h3> extraia o arquivo do projeto (se você não possui um gerenciador de arquivos, recomendo Zarchiver <img src ="assets/readme/za.png" width='25px' heigth="25"> https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)</p>
 -> com o Zarchiver: vá até o diretorio onde encontra-se o arquivo que foi baixado (geralmente na pasta download (/storage/emulated/0/download)<img src="assets/readme/ex1.png" alt="image" heigth="200" width="360"> de um clique sobre o nome do arquivo, em seguida clique em 'extrair aqui'<img src="assets/readme/ex2.png" alt="image" heigth="540" width="360">
-<p>Agora copie o seguinte enderço e cole na barra de endereço de seu navegador <img src="assets/readme/ex3.png" alt="image"> file:///storage/emulated/0/download/DarknessEvocation/index.html</p>
+<p>Agora copie o seguinte enderço e cole na barra de endereço de seu navegador <img src="assets/readme/ex3.png" alt="image"> file:///storage/emulated/0/Download/DarknessEvocation/index.html</p>
 Caso dê algum erro, verifique se o arquivo encontra-se no diretorio acima.
 Caso mesmo assim você tenha alguma dúvida ou não tenha funcionado, entre em contato em DarknessStudio34@gmail.com
 
