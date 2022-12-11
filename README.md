@@ -6,8 +6,9 @@ Olá🤘
     <p>|   -> inicio ícone Darkness Studio.</p>
     <p>|   -> tela menu principal</p>
     <p>|   -> modo tela cheia</p>
+    <p>|   -> menu opções +/-</p>
 
-Como instalar?
+<h1>Como instalar?</h1>
  -> vc pode rodar a versão online (apartir do navegador) aqui:
     https://darknessstudio34.github.io/DarknessEvocationOld/
 
