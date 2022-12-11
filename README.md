@@ -14,7 +14,7 @@
  <p>|   -> atualmente não tenho um como compilar os arquivos em um executável ou arquivo de instalação 😕, entretanto você pode baixar o arquivo (zip) do projeto aqui:</p> 
  <p>https://drive.google.com/drive/folders/1VkpfWDuwM-S8v5GrPx7gCQcuC27xhXOd</p>
 
- <p>Instruções de como rodar o projeto offline:</p>
+ <h2>Instruções de como rodar o projeto offline:</h2>
 Baixe o arquivo clicando no link acima e selecionando a versão na qual deseja executar. 
 Ou se prefirir, aqui a ultima versão lançada:
 
