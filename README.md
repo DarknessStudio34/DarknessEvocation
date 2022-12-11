@@ -1,6 +1,5 @@
 
-Olá🤘
-<p>Beta v0.0.0.2</p>
+<p>Olá🤘 Beta v0.0.0.2</p>
 
 <h1>-> o que temos até agora:</h1>
     <p>|   -> inicio ícone Darkness Studio.</p>
