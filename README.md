@@ -1,12 +1,11 @@
-L
-L
+
 Olá🤘
 <p>Beta v0.0.0.2</p>
 
 <h1>-> o que temos até agora:</h1>
-    <p>   ->inicio ícone Darkness Studio.</p>
-    <p>   ->tela menu principal</p>
-    <p>   ->modo tela cheia</p>
+    <p>|   -> inicio ícone Darkness Studio.</p>
+    <p>|   -> tela menu principal</p>
+    <p>|   -> modo tela cheia</p>
 
 Como instalar?
  -> vc pode rodar a versão online (apartir do navegador) aqui:
