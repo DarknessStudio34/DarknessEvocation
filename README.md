@@ -15,12 +15,8 @@
  <p>https://drive.google.com/drive/folders/1VkpfWDuwM-S8v5GrPx7gCQcuC27xhXOd</p>
 
  <h2>Instruções de como rodar o projeto offline:</h2>
-Baixe o arquivo clicando no link acima e selecionando a versão na qual deseja executar. 
-Ou se prefirir, aqui a ultima versão lançada:
-
-Otimizado para dispositivos móveis:
-
-Otimizado para PC (ou outros dispositivos com a proporção de tela maior):
+<p>Baixe o arquivo clicando no link acima e selecionando a versão na qual deseja executar. 
+Ou se prefirir, aqui a ultima versão lançada: (pode ser que esteja desatualizado...)</p>
 
 Android: extraia o arquivo do projeto (se você não possui um gerenciador de arquivos, recomendo Zarchiver https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 -> com o Zarchiver: vá até o diretorio onde encontra-se o arquivo que foi baixado (geralmente na pasta download (/storage/emulated/0/download), de um clique sobre o nome do arquivo, em seguida clique em 'extrair para /nome do arquivo/'
