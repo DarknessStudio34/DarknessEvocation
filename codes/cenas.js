@@ -18,11 +18,11 @@ function cenarios (){
       }
       if (apm == 1){
         Xmp = Xmp + 5
-        /*if (Xmp == 5){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
+        if (Xmp == 5){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
         if (Xmp == 20){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
         if (Xmp == 35){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
         if (Xmp == 50){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
-        if (Xmp == 65){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY); c = 1.2; }*/
+        if (Xmp == 65){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY); c = 1.2; }
         image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) 
         if (Xmp == 200){ c = 1.2 }
       }
