@@ -17,7 +17,7 @@ function cenarios (){
         image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY)
       }
       if (apm == 1){
-        Xmp = Xmp + 5
+        Xmp = Xmp + 3
         if (Xmp == 5){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
         if (Xmp == 20){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
         if (Xmp == 35){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
