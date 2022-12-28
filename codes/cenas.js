@@ -1,6 +1,4 @@
-var Xpm = 0
-var Ypm = 0
-var apm = 0
+
 function cenarios (){
   if (c == 0){
     background (220)
