@@ -9,7 +9,7 @@
 
 <h2>Como instalar?</h2>
  <p>|   -> vc pode rodar a versão online (apartir do navegador) aqui:
-    <p>https://darknessstudio34.github.io/DarknessEvocationOld/</p>
+    <p>https://darknessstudio34.github.io/DarknessEvocation/</p>
 
  <p>|   -> atualmente não tenho um como compilar os arquivos em um executável ou arquivo de instalação 😕, entretanto você pode baixar o arquivo (zip) do projeto aqui:</p> 
  <p>https://drive.google.com/drive/folders/1VkpfWDuwM-S8v5GrPx7gCQcuC27xhXOd</p>
