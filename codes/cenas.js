@@ -1,4 +1,4 @@
-Qqvar Xpm = 0
+var Xpm = 0
 var Ypm = 0
 var apm = 0
 function cenarios (){
