@@ -1,4 +1,4 @@
-var Xpm = 0
+Qqvar Xpm = 0
 var Ypm = 0
 var apm = 0
 function cenarios (){
@@ -18,12 +18,12 @@ function cenarios (){
       }
       if (apm == 1){
         Xmp = Xmp + 1
-        if (Xmp <= 5){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
-        if (Xmp <= 20){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
-        if (Xmp <= 35){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
-        if (Xmp <= 50){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) }
-        if (Xmp <= 65){ image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY); c = 1.2; }
-        image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) 
+        if (Xmp <= 5){ image(BGs.menu1_1, 5, Ypm, window.screen.width, screenY) }
+        if (Xmp <= 20){ image(BGs.menu1_1, 20, Ypm, window.screen.width, screenY) }
+        if (Xmp <= 35){ image(BGs.menu1_1, 35, Ypm, window.screen.width, screenY) }
+        if (Xmp <= 50){ image(BGs.menu1_1, 50, Ypm, window.screen.width, screenY) }
+        if (Xmp <= 65){ image(BGs.menu1_1, 65, Ypm, window.screen.width, screenY); c = 1.2; }
+        //image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY) 
         //if (Xmp == 80){ c = 1.2 }
       }
       image (BGs.menu_options1, 0, 0, screenX, screenY );
