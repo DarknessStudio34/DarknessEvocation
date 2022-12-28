@@ -16,7 +16,7 @@ function cenarios (){
       }
       if (apm == 1){
         console.log('funcionando')
-        Xpm = Xpm - 5
+        Xpm = Xpm - 20
         image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY)
       }
       image (BGs.menu_options1, 0, 0, screenX, screenY );
