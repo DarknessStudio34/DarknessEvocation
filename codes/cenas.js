@@ -16,7 +16,8 @@ function cenarios (){
       }
       if (apm == 1){
         console.log('funcionando')
-         
+        Xpm = Xpm - 1
+        image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY)
       }
       image (BGs.menu_options1, 0, 0, screenX, screenY );
       image (BGs.menu_play1, 0, 0, screenX, screenY );
