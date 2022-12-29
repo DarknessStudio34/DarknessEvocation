@@ -72,6 +72,7 @@ function mouseClicked () {
   if (propor == 2){
     if(mouseX > screenX * 0.8191 && mouseX < screenX * 0.975 && mouseY > screenY * 0.4173 && mouseY < screenY * 0.5999){
       apm = 1
+      console.log('funcionando')
     } 
   }
 }
