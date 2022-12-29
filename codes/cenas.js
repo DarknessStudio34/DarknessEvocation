@@ -17,11 +17,11 @@ function cenarios (){
       if (apm == 1){
         console.log('funcionando')
         Xpm = Xpm - 50
-
+        xbm = xbm + 50
         image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY)
       }
-      image (BGs.menu_options1, 0, 0, screenX, screenY );
-      image (BGs.menu_play1, 0, 0, screenX, screenY );
+      image (BGs.menu_options1, xbm, 0, screenX, screenY );
+      image (BGs.menu_play1, xbm, 0, screenX, screenY );
     }
     if (propor == 2){
       background (BGs.menu2);
