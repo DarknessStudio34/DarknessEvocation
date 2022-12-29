@@ -15,7 +15,7 @@ function cenarios (){
         image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY)
       }
       if (apm == 1){
-        console.log('funcionando')
+        console.log("funcionando")
         Xpm = Xpm - 50
         xbm = xbm + 50
         image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY)
@@ -24,6 +24,12 @@ function cenarios (){
       image (BGs.menu_play1, xbm, 0, screenX, screenY );
     }
     if (propor == 2){
+      if (apm == 1){
+        console.log("funcionando")
+        Xpm = Xpm - 50
+        xbm = xbm + 50
+        image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY)
+      }
       background (BGs.menu2);
       image (BGs.menu_options2, 0, 0, screenX, screenY );
       image (BGs.menu_play2, 0, 0, screenX, screenY );
