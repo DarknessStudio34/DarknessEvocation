@@ -28,7 +28,7 @@ function cenarios (){
         console.log("funcionando")
         Xpm = Xpm - 50
         xbm = xbm + 50
-        image(BGs.menu1_1, Xpm, Ypm, window.screen.width, screenY)
+        image(BGs.menu1_2, Xpm, Ypm, window.screen.width, screenY)
       }
       background (BGs.menu2);
       image (BGs.menu_options2, 0, 0, screenX, screenY );
