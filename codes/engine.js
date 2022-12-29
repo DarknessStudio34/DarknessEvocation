@@ -64,8 +64,15 @@ function mouseClicked () {
       alert("Vire seu dispositivo na horizontal e recarregue a página, se este erro persistir ative a rotação automática no painel de notificações e tente o passo anterior.");
     }
   }
-  if(mouseX > screenX * 0.7775 && mouseX < screenX * 0.9125 && mouseY > screenY * 0.473 && mouseY < screenY * 0.645){
-    apm = 1
+  if (propor == 1){
+    if(mouseX > screenX * 0.7775 && mouseX < screenX * 0.9125 && mouseY > screenY * 0.473 && mouseY < screenY * 0.645){
+      apm = 1
+    } 
+  }
+  if (propor == 2){
+    if(mouseX > screenX * 0.7775 && mouseX < screenX * 0.9125 && mouseY > screenY * 0.473 && mouseY < screenY * 0.645){
+      apm = 1
+    } 
   }
 }
 function toggleFullScreen() {
