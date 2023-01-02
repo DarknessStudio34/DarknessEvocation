@@ -30,7 +30,7 @@ function preload (){
     menu_full: loadImage('assets/menus/b_fullscreen.png'),
     m_options1: loadImage('assets/menus/menu_principal/menu_options1.png'),
     m_options2: loadImage('assets/menus/menu_principal/menu_options2.png'),
-    menu1_2: loadImage('assets/menus/menu_principal/menu_bg_12.png')
+    //menu1_2: loadImage('assets/menus/menu_principal/menu_bg_12.png')
   }
   bop = {
     res1: loadImage('assets/menus/menu_principal/res1.png'),
