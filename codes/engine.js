@@ -20,7 +20,7 @@ function draw() {
 function preload (){
   lg = loadImage('assets/logo_DS.png')
   BGs = {
-    menu2: loadImage('assets/menus/menu_principal/menu_bg_2.png'),
+    menu2: loadImage('assets/menus/menu_principal/menu_bg_2.png.png'),
     menu1: loadImage('assets/menus/menu_principal/menu_bg_1.png'),
     menu1_1: loadImage('assets/menus/menu_principal/menu_bg_11.png'),
     menu_play1: loadImage('assets/menus/menu_principal/play1.png'),
