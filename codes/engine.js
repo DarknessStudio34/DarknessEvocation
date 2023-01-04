@@ -20,23 +20,8 @@ function draw() {
 function preload (){
   lg = loadImage('assets/logo_DS.png')
   BGs = {
-    menu2: loadImage('assets/menus/menu_principal/menu_bg_2.png.png'),
+    menu2: loadImage('assets/menus/menu_principal/menu_bg_2.png'),
     menu1: loadImage('assets/menus/menu_principal/menu_bg_1.png'),
-    menu1_1: loadImage('assets/menus/menu_principal/menu_bg_11.png'),
-    menu_play1: loadImage('assets/menus/menu_principal/play1.png'),
-    menu_options1: loadImage('assets/menus/menu_principal/options1.png'),
-    menu_play2: loadImage('assets/menus/menu_principal/play.png'),
-    menu_options2: loadImage('assets/menus/menu_principal/options.png'),
-    menu_full: loadImage('assets/menus/b_fullscreen.png'),
-    m_options1: loadImage('assets/menus/menu_principal/menu_options1.png'),
-    m_options2: loadImage('assets/menus/menu_principal/menu_options2.png'),
-    //menu1_2: loadImage('assets/menus/menu_principal/menu_bg_12.png')
-  }
-  bop = {
-    res1: loadImage('assets/menus/menu_principal/res1.png'),
-    res_se1: loadImage('assets/menus/menu_principal/res_se1.png'),
-   // res2: loadImage('assets/menus/menu_principal/res2.png'),
-    //res_se2: loadImage('assets/menus/menu_principal/res_se2.png')
   }
 }
 function frames (){
