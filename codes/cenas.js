@@ -29,6 +29,7 @@ function cenarios (){
         Xpm = Xpm - 50
         xbm = xbm + 50
         image(BGs.menu1_2, Xpm, Ypm, window.screen.width, screenY)
+        if (Xpm < -250 && xbm > 250 ){c = 1.2}
       }
       background (BGs.menu2);
       image (BGs.menu_options2, 0, 0, screenX, screenY );
