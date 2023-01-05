@@ -16,9 +16,9 @@ function cenarios (){
         loadmenu();
         ld = 0;
       }
-      if (timer >= 100){
+    }
+    if (timer >= 100){
         function hg (){c = 1}
-      }
     }
   }
   if (c == 1){
