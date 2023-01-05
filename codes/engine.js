@@ -8,7 +8,6 @@ function setup() {
 function draw() {
   screenConfig();
   j();
-  loading();
   cenarios();
   botao()
   frames();
