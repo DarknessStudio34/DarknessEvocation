@@ -8,6 +8,14 @@ function cenarios (){
       c = 0.5;
     }
   }
+  if (c == 0.5){
+    if(propor == 1){
+      background(BGs.menu1)
+    }
+    if (propor == 2){
+      background(BGs.menu2)
+    }
+  }
   if (c == 1){
     if (propor == 1){
       background (BGs.menu1);
