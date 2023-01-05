@@ -4,8 +4,8 @@ function cenarios (){
     background (220)
     image(lg, screenX * 0.45, screenY *0.45, screenY * 0.20, screenY * 0.20)
     timer = timer + 1;
-    if (timer == 60){
-      c = 1;
+    if (timer == 90){
+      c = 0.5;
     }
   }
   if (c == 1){
