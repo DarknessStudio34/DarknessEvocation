@@ -6,6 +6,11 @@ function cenarios (){
     timer = timer + 1;
     if (timer == 90){
       c = 0.5;
+      ld = 1
+      if (ld == 1){
+        loadmenu();
+        ld = 0;
+      }
     }
   }
   if (c == 0.5){
