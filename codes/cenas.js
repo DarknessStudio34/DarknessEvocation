@@ -18,7 +18,7 @@ function cenarios (){
         ld = 0;
       }
       if (timer >= 100){
-        function(){c = 1}
+        function hg (){c = 1}
       }
     }
   }
