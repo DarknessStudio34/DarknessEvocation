@@ -13,7 +13,7 @@ function draw() {
   botao()
   frames();
   if (fscreen == false){
-    image(BGs.menu_full, screenX - screenX * 0.05, 0, 25, 25) 
+   // image(BGs.menu_full, screenX - screenX * 0.05, 0, 25, 25) 
   }
 }
 
