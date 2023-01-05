@@ -44,8 +44,9 @@ function screenConfig (){
   }
 }
 
-function loading (){
-  if (c == 0.5){
+var ld = 0
+function loadmenu (){
+  if (ld == 1){
     BGs = {
       menu2: loadImage('assets/menus/menu_principal/menu_bg_2.png.png'),
       menu1: loadImage('assets/menus/menu_principal/menu_bg_1.png'),
@@ -56,7 +57,7 @@ function loading (){
       menu_options2: loadImage('assets/menus/menu_principal/options.png'),
       menu_full: loadImage('assets/menus/b_fullscreen.png'),
       m_options1: loadImage('assets/menus/menu_principal/menu_options1.png'),
-      m_options2: loadImage('assets/menus/menu_principal/menu_options2.png'),
+      m_options2: loadImage('assets/menus/menu_principal/menu_options2.png')
       //menu1_2: loadImage('assets/menus/menu_principal/menu_bg_12.png')
     }
 
