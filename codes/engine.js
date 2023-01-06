@@ -71,6 +71,8 @@ function loadmenu (){
        menu1_2: loadImage('assets/menus/menu_principal/menu_bg_12.png')
      }
      bop = {
+        res1: loadImage('assets/menus/menu_principal/res1.png'),
+        res_se1: loadImage('assets/menus/menu_principal/res_se1.png'),
         // res2: loadImage('assets/menus/menu_principal/res2.png'),
         //res_se2: loadImage('assets/menus/menu_principal/res_se2.png')
      }
