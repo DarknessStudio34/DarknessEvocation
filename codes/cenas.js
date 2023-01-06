@@ -20,9 +20,6 @@ function cenarios (){
     if (timer == 100){
         c = 1
     }
-   // else if (timer > 105){
-      
-    //}
   }
   if (c == 1){
     if (propor == 1){
