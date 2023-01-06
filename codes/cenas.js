@@ -3,8 +3,7 @@ function cenarios (){
   if (c == 0){
     background (220)
     image(lg, screenX * 0.45, screenY *0.45, screenY * 0.20, screenY * 0.20)
-    timer = timer + 1;
-    if (timer == 90){
+    if (frameCount == 90){
       ld = 1
       if (ld == 1){
         if(propor == 1){
@@ -17,7 +16,7 @@ function cenarios (){
         ld = 0;
       }
     }
-    if (timer == 100){
+    if (frameCount == 100){
         c = 1
     }
   }
