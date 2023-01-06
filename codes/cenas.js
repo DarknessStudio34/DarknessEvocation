@@ -22,7 +22,7 @@ function cenarios (){
     }
    // else if (timer > 105){
       
-    }
+    //}
   }
   if (c == 1){
     if (propor == 1){
