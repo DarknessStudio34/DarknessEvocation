@@ -67,8 +67,8 @@ function loadmenu (){
        menu_play2: loadImage('assets/menus/menu_principal/play.png'),
        menu_options2: loadImage('assets/menus/menu_principal/options.png'),
        menu_full: loadImage('assets/menus/b_fullscreen.png'),
-       m_options2: loadImage('assets/menus/menu_principal/menu_options2.png')
-       //menu1_2: loadImage('assets/menus/menu_principal/menu_bg_12.png')
+       m_options2: loadImage('assets/menus/menu_principal/menu_options2.png'),
+       menu1_2: loadImage('assets/menus/menu_principal/menu_bg_12.png')
      }
      bop = {
         // res2: loadImage('assets/menus/menu_principal/res2.png'),
