@@ -13,19 +13,7 @@
  <p>| Ou se preferir vc pode rodar a versão online (apartir do navegador) aqui:
     <p>https://darknessstudio34.github.io/DarknessEvocation/</p>
  
-
- /*<p>|   -> atualmente não tenho um como compilar os arquivos em um executável ou arquivo de instalação 😕, entretanto você pode baixar o arquivo (zip) do projeto aqui:</p> 
- <p>https://drive.google.com/drive/folders/1VkpfWDuwM-S8v5GrPx7gCQcuC27xhXOd</p>
-
- <h2>Instruções de como rodar o projeto offline:</h2>
-<p>Baixe o arquivo clicando no link acima e selecionando a versão na qual deseja executar. 
-Ou se prefirir, aqui a ultima versão lançada: (pode ser que esteja desatualizado...)</p>
-
-<h3>Android</h3> extraia o arquivo do projeto (se você não possui um gerenciador de arquivos, recomendo Zarchiver <img src ="assets/readme/za.png" width='25px' heigth="25"> https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)</p>
--> com o Zarchiver: vá até o diretorio onde encontra-se o arquivo que foi baixado (geralmente na pasta download (/storage/emulated/0/download)<img src="assets/readme/ex1.png" alt="image" heigth="200" width="360"> de um clique sobre o nome do arquivo, em seguida clique em 'extrair aqui'<img src="assets/readme/ex2.png" alt="image" heigth="540" width="360">
-<p>Agora copie o seguinte enderço e cole na barra de endereço de seu navegador <img src="assets/readme/ex3.png" alt="image"> file:///storage/emulated/0/Download/DarknessEvocation/index.html</p>
-Caso dê algum erro, verifique se o arquivo encontra-se no diretorio acima.*/
-Caso mesmo assim você tenha alguma dúvida ou não tenha funcionado, entre em contato em DarknessStudio34@gmail.com
+Caso tenha alguma dúvida ou não tenha funcionado, entre em contato em DarknessStudio34@gmail.com
 
 #es-us
 Beta 0.0.0.1
