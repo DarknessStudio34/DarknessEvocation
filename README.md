@@ -1,5 +1,5 @@
 
-<p>Olá🤘 Beta v0.0.0.2</p>
+<p>Olá🤘 Beta v0.0.35</p>
 
 <h2>-> o que temos até agora:</h2>
     <p>|   -> inicio ícone Darkness Studio.</p>
@@ -20,7 +20,7 @@
 Caso tenha alguma dúvida ou não tenha funcionado, entre em contato em DarknessStudio34@gmail.com</h5>
 
 #es-us
-Beta 0.0.0.1
+<p> Hi 🤘 Beta 0.0.35</p>
 -> files contents:
     -> start icon Darkness Studio
     -> main menu scene
