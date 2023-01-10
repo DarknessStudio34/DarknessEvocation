@@ -9,7 +9,7 @@
 
 <h2>Como instalar?</h2>
  <p>| Android:  https://1drv.ms/u/s!ApaQiE6mpYyzfqRzkjN086dTxbA  </p>
- <p>| Windows: </p>
+ <p>| Windows:  https://1drv.ms/u/s!ApaQiE6mpYyzf38xC_ZfJFXqEWw  </p>
  <p>| Ou se preferir vc pode rodar a versão online (apartir do navegador) aqui:
     <p>https://darknessstudio34.github.io/DarknessEvocation/</p>
  
