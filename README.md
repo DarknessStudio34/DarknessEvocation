@@ -11,9 +11,11 @@
  <h4>DOWNLOADS</h4>
  <p>| Android:  https://1drv.ms/u/s!ApaQiE6mpYyzfqRzkjN086dTxbA  </p>
  <p>| Windows:  https://1drv.ms/u/s!ApaQiE6mpYyzf38xC_ZfJFXqEWw  </p>
-
+ <h5> Obs: Windows: extraia o arquivo e execute 'DarknessEvocation.exe' </h5>
+      
  <p>| Ou se preferir vc pode rodar a versão online (apartir do navegador) aqui:
     <p>https://darknessstudio34.github.io/DarknessEvocation/</p>
+  <h5>  Pode haver algumas diferenças entre a versão web e aplicativo. E também um pequeno atraso na atualização das versões executáveis, tentarei atualizar sempre que possivel.
  
 Caso tenha alguma dúvida ou não tenha funcionado, entre em contato em DarknessStudio34@gmail.com
 
