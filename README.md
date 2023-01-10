@@ -17,7 +17,7 @@
     <p>https://darknessstudio34.github.io/DarknessEvocation/</p>
   <h5>  Pode haver algumas diferenças entre a versão web e aplicativo. E também um pequeno atraso na atualização das versões executáveis, tentarei atualizar sempre que possivel.
  
-Caso tenha alguma dúvida ou não tenha funcionado, entre em contato em DarknessStudio34@gmail.com
+Caso tenha alguma dúvida ou não tenha funcionado, entre em contato em DarknessStudio34@gmail.com</h5>
 
 #es-us
 Beta 0.0.0.1
